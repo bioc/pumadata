@@ -1,0 +1,12 @@
+Package: pumadata
+Type: Package
+Title: Various data sets for use with the puma package
+Version: 1.0.0
+Date: 2007-03-23
+Author: Richard Pearson
+Maintainer: Richard Pearson <richard.pearson@postgrad.manchester.ac.uk>
+Depends: R (>= 2.4.0), Biobase, puma
+Description: This is a simple data package, including various data sets, both raw and processed, for use with the puma (Propagating Uncertainty in Microarray Analysis) package. This includes data for the estrogen, Choe (golden spike) and Lin (mouse) data sets.
+License: LGPL
+biocViews: ExperimentData
+URL: http://umber.sbs.man.ac.uk/resources/puma

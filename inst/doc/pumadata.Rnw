@@ -1,0 +1,47 @@
+% -*- mode: noweb; noweb-default-code-mode: R-mode; -*-
+%\VignetteIndexEntry{pumadata User Guide}
+%\VignetteKeywords{Preprocessing, Affymetrix, Clustering}
+%\VignetteDepends{Biobase}
+%\VignettePackage{pumadata}
+%documentclass[12pt, a4paper]{article}
+\documentclass[12pt]{article}
+
+\usepackage{amsmath,pstricks}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage[authoryear,round]{natbib}
+
+\restylefloat{figure}
+
+\textwidth=6.2in
+\textheight=8.5in
+%\parskip=.3cm
+\oddsidemargin=.1in
+\evensidemargin=.1in
+\headheight=-.3in
+
+\newcommand{\scscst}{\scriptscriptstyle}
+\newcommand{\scst}{\scriptstyle}
+\newcommand{\Rfunction}[1]{{\texttt{#1}}}
+\newcommand{\Robject}[1]{{\texttt{#1}}}
+\newcommand{\Rpackage}[1]{{\textit{#1}}}
+\newcommand{\puma}{\Rpackage{puma}}
+\newcommand{\limma}{\Rpackage{limma}}
+
+\author{Richard Pearson}
+\begin{document}
+\title{pumadata User Guide}
+
+\maketitle
+
+\sloppy
+\SweaveOpts{keep.source=TRUE}
+
+<<echo=FALSE, eval=FALSE>>=
+options(width = 70)
+@
+
+\section{Introduction}
+This is a simple data package, to be used with the \Rpackage{puma} package. Please refer to the \Rpackage{puma} vignette for more details.
+
+\end{document}

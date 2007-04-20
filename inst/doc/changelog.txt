@@ -1,0 +1,8 @@
+23 March 2007: pumadata 1.0.0
+
+First version of pumadata to be available from Bioconductor
+
+07 February 2007: pumadata 0.0.1
+
+The first version of the pumadata package was created, with a view to becoming part
+of the Bioconductor project.
