@@ -1,3 +1,7 @@
+28 August 2008: pumadata 1.0.1
+
+Changed description to make clear this only contains data derived from the estrogen data set.
+
 23 March 2007: pumadata 1.0.0
 
 First version of pumadata to be available from Bioconductor
