@@ -13,7 +13,7 @@
 }
 \usage{data(eset_estrogen_comb)}
 \format{
-  An \code{\link[Biobase:ExpressionSet-class]{ExpressionSet}} object containing the expression levels and standard errors from combining the replicates for each combination of levels of factors from 8 HG\_U95Av2 arrays, in a 2 x 2 factorial design, with 2 replicates for each combination of factors. The factors are estrogen (absent of present) and time.h (10 or 48).
+  An \code{\link[Biobase:class.ExpressionSet]{ExpressionSet}} object containing the expression levels and standard errors from combining the replicates for each combination of levels of factors from 8 HG\_U95Av2 arrays, in a 2 x 2 factorial design, with 2 replicates for each combination of factors. The factors are estrogen (absent of present) and time.h (10 or 48).
 }
 \seealso{\code{\link[pumadata]{eset_estrogen_mmgmos}}}
 \examples{
