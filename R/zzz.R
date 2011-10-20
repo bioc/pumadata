@@ -1,4 +1,4 @@
-.First.lib <- function(lib, pkgname, where) {
+.onLoad <- function(lib, pkgname) {
   if(.Platform$OS.type == "windows" && require(Biobase) && interactive()
         && .Platform$GUI ==  "Rgui"){
         addVigs2WinMenu("pumadata")
