@@ -6,8 +6,8 @@
     This data is taken from the \pkg{estrogen} package. It was created to be used in the vignette for the \pkg{puma} pacakge. It can be produced using the following code (note this could take a long time to run):
 
     \preformatted{
-		data(affybatch.estrogen)
-		eset_estrogen_mmgmos <- mmgmos(affybatch.estrogen)
+		data(oligo.estrogen)
+		eset_estrogen_mmgmos <- mmgmos(oligo.estrogen)
 	}
 }
 \usage{data(eset_estrogen_mmgmos)}
@@ -15,7 +15,7 @@
   An \code{\link[puma:exprReslt-class]{exprReslt}} object containing expression levels and standard errors for 8 HG\_U95Av2 arrays, in a 2 x 2 factorial design, with 2 replicates for each combination of factors. The factors are estrogen (absent of present) and time.h (10 or 48).
 }
 \seealso{
-	\code{\link[pumadata]{affybatch.estrogen}}
+	\code{\link[pumadata]{oligo.estrogen}}
 	\code{\link[pumadata]{eset_estrogen_rma}}
 }
 \examples{

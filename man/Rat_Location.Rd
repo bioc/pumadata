@@ -7,7 +7,7 @@
 }
 \usage{data(Rat_Location)}
 \format{
-  the location for probes
+   A 1*931210 matrix including the location for unique probes in Rat_transcript_NO.
 }
 \source{
 Risueno A, Fontanillo C, Dinger ME, De Las Rivas J. GATExplorer: genomic and transcriptomic explorer; mapping expression

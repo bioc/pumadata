@@ -6,8 +6,8 @@
     This data is taken from the \pkg{estrogen} package. It was created to be used in the vignette for the \pkg{puma} pacakge. It can be produced using the following code:
 
     \preformatted{
-		data(affybatch.estrogen)
-		eset_estrogen_mmgmos <- rma(affybatch.estrogen)
+		data(oligo.estrogen)
+		eset_estrogen_mmgmos <- rma(oligo.estrogen)
 	}
 }
 \usage{data(eset_estrogen_rma)}
@@ -19,7 +19,7 @@
   of present) and time.h (10 or 48). 
 }
 \seealso{
-	\code{\link[pumadata]{affybatch.estrogen}}
+	\code{\link[pumadata]{oligo.estrogen}}
 	\code{\link[pumadata]{eset_estrogen_mmgmos}}
 }
 \examples{

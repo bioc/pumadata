@@ -7,7 +7,7 @@
 }
 \usage{data(Human_Location)}
 \format{
-  the location for probes
+   A 1*1565476 matrix including the location for unique probes in Human_transcript_NO.
 }
 \source{
 Risueno A, Fontanillo C, Dinger ME, De Las Rivas J. GATExplorer: genomic and transcriptomic explorer; mapping expression
