@@ -3,4 +3,4 @@
         addVigs2WinMenu("pumadata")
     }
 }
-#require(Biobase)
+

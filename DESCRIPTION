@@ -2,12 +2,12 @@ Package: pumadata
 Type: Package
 Title: Various data sets for use with the puma package
 Version: 1.99.8
-Date: 2012-09-08
+Date: 2013-10-30
 Author: Richard Pearson
 Maintainer: Richard Pearson <richard.pearson@well.ox.ac.ukk>
-Depends: R (>= 2.10.0), affy (>= 1.23.4), Biobase (>= 2.5.5), puma
+Depends: R (>= 3.0.0), affy (>= 1.41.3), Biobase (>= 2.5.5), puma,oligo
 Description: This is a simple data package including various data sets derived from the estrogen data for use with the puma (Propagating Uncertainty in Microarray Analysis) package.
 License: LGPL
 biocViews: ExperimentData
 URL: http://umber.sbs.man.ac.uk/resources/puma
-Packaged: 2012-09-09 05:55:22 UTC; Leo
+Packaged: 2014-01-03 06:35:33 UTC; root
