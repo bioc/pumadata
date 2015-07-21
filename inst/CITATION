@@ -1,6 +1,0 @@
-citHeader("pumadata is a simple data package containing data from different sources. Please obtain the citations for the original sources if you intend to use this data in publications")
-
-citFooter("This free open-source software implements academic
-research by the authors and co-workers. If you use it,
-please support the project by citing the appropriate
-journal articles.")
