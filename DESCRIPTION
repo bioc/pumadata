@@ -1,15 +1,20 @@
 Package: pumadata
 Type: Package
 Title: Various data sets for use with the puma package
-Version: 2.21.0
-Date: 2015-5-30
+Version: 2.21.1
+Date: 2019-09-04
 Author: Richard Pearson
-Maintainer: Richard Pearson <richard.pearson@well.ox.ac.ukk>
-Depends: R (>= 3.2.0), affy (>= 1.46.0), Biobase (>= 2.5.5),puma
-        ,oligo(>= 1.32.0)
+Maintainer: Xuejun liu <xuejun.liu@nuaa.edu.cn>
+Depends: R (>= 3.2.0), Biobase (>= 2.5.5),puma,
+          oligo(>= 1.32.0)
 Description: This is a simple data package including various data sets derived from the estrogen data for use with the puma (Propagating Uncertainty in Microarray Analysis) package.
 License: LGPL
 biocViews: ExperimentData, MicroarrayData, SNPData
 URL: http://umber.sbs.man.ac.uk/resources/puma
-Packaged: 2015-06-05 08:26:36 UTC; xuejun
+Packaged: 2019-09-04 16:27:07 UTC; biocbuild
 NeedsCompilation: no
+git_url: https://git.bioconductor.org/packages/pumadata
+git_branch: master
+git_last_commit: f5c2c48
+git_last_commit_date: 2019-09-04
+Date/Publication: 2019-09-04
