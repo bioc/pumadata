@@ -1,7 +1,7 @@
 Package: pumadata
 Type: Package
 Title: Various data sets for use with the puma package
-Version: 2.40.0
+Version: 2.41.0
 Date: 2019-09-04
 Author: Richard Pearson
 Maintainer: Xuejun liu <xuejun.liu@nuaa.edu.cn>
